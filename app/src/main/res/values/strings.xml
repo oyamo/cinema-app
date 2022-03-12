@@ -1,0 +1,13 @@
+
+<resources>
+    <string name="app_name">Sinema</string>
+    <string name="home_menu_title">Home</string>
+    <string name="play_menu_title">Play</string>
+    <string name="account_menu_title">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stream">Stream</string>
+    <string name="everywhere">\u00A0Everywhere</string>
+    <string name="continue_watching">Continue Watching</string>
+    <string name="ready_player_one">Ready player One</string>
+</resources>
